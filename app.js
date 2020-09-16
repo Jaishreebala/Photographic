@@ -49,7 +49,7 @@ async function curatedPhotos() {
 
     })
 }
-// curatedPhotos();
+curatedPhotos();
 
 submitButton.addEventListener("click", searchResults);
 
